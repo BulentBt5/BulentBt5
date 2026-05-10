@@ -14,4 +14,4 @@ Specializing in **Technical Localization (L10n)** for high-performance software 
 - **Mirillis Action!:** UI Optimization and technical term refinement for Turkish market.
 
 ---
-📫 How to reach me: (https://www.linkedin.com/in/bülent-ertav-922275145?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bülent-ertav-922275145?utm_source=share_via&utm_content=profile&utm_medium=member_android)
