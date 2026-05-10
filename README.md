@@ -1,4 +1,4 @@
-# Hi, I'm Bulent | Localization Engineer & Full-Stack Developer 🚀
+# Hi, I'm Bulent E. | Localization Engineer & Full-Stack Developer 🚀
 
 I bridge the gap between complex software architecture and local user experience. 
 Specializing in **Technical Localization (L10n)** for high-performance software and hardware systems.
