@@ -14,7 +14,7 @@ Specializing in **Technical Localization (L10n)** for high-performance software 
 - **Mirillis Action!:** UI Optimization and technical term refinement for Turkish market.
 
 ### My Software Development
-- [MKV Extrator](https://github.com/BulentBt5/mkv-extractor-pro/releases):** Easily extract MKV files.
+- **[MKV Extrator](https://github.com/BulentBt5/mkv-extractor-pro/releases):** Easily extract MKV files.
 
 ---
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bülent-ertav-922275145?utm_source=share_via&utm_content=profile&utm_medium=member_android)
